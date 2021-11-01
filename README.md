@@ -1,8 +1,8 @@
-# 2111-FSA-RM-BCP-MO-C
+# 2111-FSA-RM-BCP-MO
 
 Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
-[![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2111-FSA-RM-BCP-MO-C)](https://repl.it/github/arielahdoot/2108-FSA-RM-BCP-MO-C)
+[![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2111-FSA-RM-BCP-MO)](https://repl.it/github/arielahdoot/2108-FSA-RM-BCP-MO-C)
 
 ## Table of Contents
 

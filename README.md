@@ -7,28 +7,28 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 ## Table of Contents
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
- <!-- 2. [Loops And Debugging](#02-loops-and-debugging)
-3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-4. [Caesar Cypher](#04-caesar-cypher)
-5. [Scope](#05-scope)
-6. [Arrays I](#06-arrays-I)
-7. [Arrays II](#07-arrays-ii)
-8. [Sudoku Validator](#08-sudoku-validator)
-9. [Objects](#09-objects)
-10. [Recursion I](#10-recursion-i)
-11. [Recursion II](#11-recursion-ii)
-12. [Next Steps](#12-next-steps) -->
+2. [Loops And Debugging](#02-loops-and-debugging)
+<!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+3. [Caesar Cypher](#04-caesar-cypher)
+4. [Scope](#05-scope)
+5. [Arrays I](#06-arrays-I)
+6. [Arrays II](#07-arrays-ii)
+7. [Sudoku Validator](#08-sudoku-validator)
+8. [Objects](#09-objects)
+9. [Recursion I](#10-recursion-i)
+10. [Recursion II](#11-recursion-ii)
+11. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
--   [Repl.it](https://repl.it/repls) Play around with code!
--   [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
--   [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
--   [practice](https://www.codewars.com/users/MrZizoScream/authored)
--   Optional: Watch these after you've learned about Objects
-    -   [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
-    -   [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
-    -   [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
+- [Repl.it](https://repl.it/repls) Play around with code!
+- [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
+- [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
+- [practice](https://www.codewars.com/users/MrZizoScream/authored)
+- Optional: Watch these after you've learned about Objects
+  - [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
+  - [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
+  - [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
 
 ## Code War Links:
 
@@ -36,10 +36,10 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 > 8 = Beginner, 1 = Master
 
--   [Loops 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Loops)
--   [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false)
--   [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
--   [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
+- [Loops 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Loops)
+- [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false)
+- [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
+- [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
 ## **00 Additional Notes**
 
@@ -69,13 +69,13 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 1. [Indenting](01-tidy-code/A-indenting.js)
 2. [Variable Names](01-tidy-code/B-variableNaming.js)
 
-<!-- ## **02 Loops And Debugging**
+## **02 Loops And Debugging**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture](https://youtu.be/RSHet0N8Kjg)**
+**[Live Lecture](https://youtu.be/ZZ7l0w5ttzo)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
@@ -91,7 +91,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
-## **03 Coercion and Truthiness**
+<!-- ## **03 Coercion and Truthiness**
 
 [Lecture Slides](03-coercion-and-truthiness/Coercion-and-Truthiness.pdf)
 

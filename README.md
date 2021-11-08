@@ -126,7 +126,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 **[Live Lecture + Workshop Review](https://youtu.be/BI3bZjllt7c)**
 
-**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/EfJiBnVe4JI)**
+**[Scope Review](https://youtu.be/EfJiBnVe4JI)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 

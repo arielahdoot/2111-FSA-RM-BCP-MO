@@ -8,7 +8,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+ <!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 3. [Caesar Cypher](#04-caesar-cypher)
 4. [Scope](#05-scope)
 5. [Arrays I](#06-arrays-I)
@@ -21,14 +21,14 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 ## Additional Resources
 
-- [Repl.it](https://repl.it/repls) Play around with code!
-- [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
-- [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
-- [practice](https://www.codewars.com/users/MrZizoScream/authored)
-- Optional: Watch these after you've learned about Objects
-  - [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
-  - [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
-  - [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
+-   [Repl.it](https://repl.it/repls) Play around with code!
+-   [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
+-   [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
+-   [practice](https://www.codewars.com/users/MrZizoScream/authored)
+-   Optional: Watch these after you've learned about Objects
+    -   [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
+    -   [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
+    -   [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
 
 ## Code War Links:
 
@@ -36,10 +36,10 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 > 8 = Beginner, 1 = Master
 
-- [Loops 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Loops)
-- [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false)
-- [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
-- [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
+-   [Loops 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Loops)
+-   [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false)
+-   [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
+-   [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
 ## **00 Additional Notes**
 
@@ -120,31 +120,19 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 ### Notes
 
 - [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
-- [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
+- [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js) -->
 
 ## **05 Scope**
 
-**[Live Lecture + Workshop Review](https://youtu.be/MvXHTvMtbio)**
+**[Live Lecture + Workshop Review](https://youtu.be/BI3bZjllt7c)**
 
-**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
+**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/EfJiBnVe4JI)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-### Notes
-
-[Full Notes](05-scope)
-
-1. [What is Scope?](05-scope/A-scope-is.js)
-2. [Global Scope](05-scope/B-globalscope.js)
-3. [Functional Scope](05-scope/C-func-scope.js)
-4. [Nested Functions & Functional Scope](05-scope/D-nestedfunc.js)
-5. [Block Scope](05-scope/E-blockscope.js)
-6. [Hoisting](05-scope/F-hoisting.js)
-7. [Best Practices](05-scope/G-bestpract.js)
-
-## **06 Arrays I**
+<!-- ## **06 Arrays I**
 
 **[Live Lecture + Solutions](https://youtu.be/B8C-TeMZU88)**
 

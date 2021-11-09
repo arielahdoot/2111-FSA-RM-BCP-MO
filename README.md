@@ -132,9 +132,9 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-<!-- ## **06 Arrays I**
+## **06 Arrays I**
 
-**[Live Lecture + Solutions](https://youtu.be/B8C-TeMZU88)**
+**[Live Lecture + Solutions](https://youtu.be/voy8YuO5SIM)**
 
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
@@ -161,7 +161,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-## **07 Arrays II**
+<!-- ## **07 Arrays II**
 
 **[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 

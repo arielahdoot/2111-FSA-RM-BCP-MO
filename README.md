@@ -8,7 +8,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
- <!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+<!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 3. [Caesar Cypher](#04-caesar-cypher)
 4. [Scope](#05-scope)
 5. [Arrays I](#06-arrays-I)
@@ -21,14 +21,14 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 ## Additional Resources
 
--   [Repl.it](https://repl.it/repls) Play around with code!
--   [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
--   [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
--   [practice](https://www.codewars.com/users/MrZizoScream/authored)
--   Optional: Watch these after you've learned about Objects
-    -   [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
-    -   [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
-    -   [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
+- [Repl.it](https://repl.it/repls) Play around with code!
+- [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
+- [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
+- [practice](https://www.codewars.com/users/MrZizoScream/authored)
+- Optional: Watch these after you've learned about Objects
+  - [Pass By Value, Pass By Reference](https://youtu.be/Casw_S_uOoE)
+  - [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
+  - [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
 
 ## Code War Links:
 
@@ -36,10 +36,10 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 > 8 = Beginner, 1 = Master
 
--   [Loops 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Loops)
--   [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false)
--   [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
--   [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
+- [Loops 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Loops)
+- [Loops 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Loops&beta=false)
+- [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
+- [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
 ## **00 Additional Notes**
 
@@ -161,11 +161,11 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-<!-- ## **07 Arrays II**
+## **07 Arrays II**
 
 **[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
-**[Live Lecture + Workshop Review](https://youtu.be/ys1_8lFANrc)**
+**[Live Lecture + Workshop Review](https://youtu.be/UbX71I8zs5w)**
 
 **[Review](07-arraysII/solutions.js)**
 
@@ -175,7 +175,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-## **08 Sudoku Validator**
+<!-- ## **08 Sudoku Validator**
 
 **[Live Lecture + Review](https://youtu.be/NSmLIUAPIYE)**
 

@@ -175,7 +175,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-<!-- ## **08 Sudoku Validator**
+## **08 Sudoku Validator**
 
 **[Live Lecture + Review](https://youtu.be/NSmLIUAPIYE)**
 
@@ -193,7 +193,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 ## **09 Objects**
 
-**[Live Lecture](https://youtu.be/L9xu5mI6oKI)**
+**[Live Lecture](https://youtu.be/fixHOa2GBGw)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -245,7 +245,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-## **10 Recursion I**
+<!-- ## **10 Recursion I**
 
 [Lecture Slides](10-recursion-i/recursion-i.pdf)
 

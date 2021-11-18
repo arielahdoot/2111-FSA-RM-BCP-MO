@@ -260,13 +260,11 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 ## **11 Recursion II**
 
-[Lecture Slides](11-recursion-ii/recursion-ii.pdf)
-
 **[Live Lecture](https://youtu.be/L_4orZysDn0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-[Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
 
 <!-- ## **12 Next Steps**
 

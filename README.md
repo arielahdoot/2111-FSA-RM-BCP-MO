@@ -15,7 +15,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 6. [Arrays II](#07-arrays-ii)
 7. [Sudoku Validator](#08-sudoku-validator)
 8. [Objects](#09-objects)
-<!-- 9. [Recursion I](#10-recursion-i)
+9. [Recursion I](#10-recursion-i)
 10. [Recursion II](#11-recursion-ii)
 11. [Next Steps](#12-next-steps) -->
 
@@ -245,21 +245,19 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-<!-- ## **10 Recursion I**
+## **10 Recursion I**
 
-[Lecture Slides](10-recursion-i/recursion-i.pdf)
+<!-- [Lecture Slides](10-recursion-i/recursion-i.pdf) -->
 
-**[Live Lecture](https://youtu.be/B5BpPFrAfb0)**
+**[Live Lecture - Lesson](https://youtu.be/TJxE80VmhNA)**
+**[Live Lecture - Debugging Recursive Problems](https://youtu.be/eaV3iVa-QZE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-### Notes
 
-[Full Notes](10-recursion-i)
-
-## **11 Recursion II**
+<!-- ## **11 Recursion II**
 
 [Lecture Slides](11-recursion-ii/recursion-ii.pdf)
 

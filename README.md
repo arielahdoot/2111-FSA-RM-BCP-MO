@@ -250,6 +250,7 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 <!-- [Lecture Slides](10-recursion-i/recursion-i.pdf) -->
 
 **[Live Lecture - Lesson](https://youtu.be/TJxE80VmhNA)**
+
 **[Live Lecture - Debugging Recursive Problems](https://youtu.be/eaV3iVa-QZE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
@@ -257,21 +258,17 @@ Hello! This is where Ariel, Ziv, and Fergal will put all the material for BCP. I
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
 
-<!-- ## **11 Recursion II**
+## **11 Recursion II**
 
 [Lecture Slides](11-recursion-ii/recursion-ii.pdf)
 
-**[Live Lecture](https://youtu.be/EChuj6BS9vk)**
+**[Live Lecture](https://youtu.be/L_4orZysDn0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
 [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
 
-### Notes
-
-[Full Notes](11-recursion-ii)
-
-## **12 Next Steps**
+<!-- ## **12 Next Steps**
 
 [Lecture Slides](12-next-steps/next-steps.pdf)
 
